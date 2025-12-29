@@ -11,6 +11,7 @@ It focuses on layout design, responsiveness, and modern UI styling.
 - Music player UI with controls
 - Responsive design
 
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Flexbox, Media Queries)
